@@ -34,6 +34,7 @@ struct ContentView: View {
                     }
             )
         }
+        .navigationViewStyle(StackNavigationViewStyle())
         //        VStack {
         //            Image(systemName: "globe")
         //                .imageScale(.large)
