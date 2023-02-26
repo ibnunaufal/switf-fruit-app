@@ -37,6 +37,13 @@ struct SettingsView: View {
                     // section 2
                     
                     // section 3
+                    
+                    GroupBox(label: SettingLabelView(labelText: "Application", labelImage: "apps.iphone")
+                    ){
+                        SettingRowView(name: "Developer", content: "Bob")
+                        SettingRowView(name: "Developer", content: "Bob")
+                        SettingRowView(name: "Developer", content: "Bob")
+                    }
                 }// vstack
                 .navigationBarTitle(Text("Settings"), displayMode: .large)
                 .navigationBarItems(
