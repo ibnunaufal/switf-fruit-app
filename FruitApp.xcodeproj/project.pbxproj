@@ -13,6 +13,7 @@
 		52158A3829AB128200317CC0 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52158A3729AB128200317CC0 /* FruitDetailView.swift */; };
 		52158A3A29AB154F00317CC0 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52158A3929AB154F00317CC0 /* FruitHeaderView.swift */; };
 		52158A3C29AB175400317CC0 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52158A3B29AB175400317CC0 /* SourceLinkView.swift */; };
+		52158A3E29AB196D00317CC0 /* FruitNutrientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52158A3D29AB196D00317CC0 /* FruitNutrientView.swift */; };
 		5275DCDE297790A40078A614 /* FruitAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5275DCDD297790A40078A614 /* FruitAppApp.swift */; };
 		5275DCE0297790A40078A614 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5275DCDF297790A40078A614 /* ContentView.swift */; };
 		5275DCE2297790A70078A614 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5275DCE1297790A70078A614 /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 		52158A3729AB128200317CC0 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		52158A3929AB154F00317CC0 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		52158A3B29AB175400317CC0 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		52158A3D29AB196D00317CC0 /* FruitNutrientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientView.swift; sourceTree = "<group>"; };
 		5275DCDA297790A40078A614 /* FruitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FruitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5275DCDD297790A40078A614 /* FruitAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitAppApp.swift; sourceTree = "<group>"; };
 		5275DCDF297790A40078A614 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				52158A3729AB128200317CC0 /* FruitDetailView.swift */,
 				52158A3929AB154F00317CC0 /* FruitHeaderView.swift */,
 				52158A3B29AB175400317CC0 /* SourceLinkView.swift */,
+				52158A3D29AB196D00317CC0 /* FruitNutrientView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				52158A3829AB128200317CC0 /* FruitDetailView.swift in Sources */,
 				5275DCE0297790A40078A614 /* ContentView.swift in Sources */,
 				52158A3A29AB154F00317CC0 /* FruitHeaderView.swift in Sources */,
+				52158A3E29AB196D00317CC0 /* FruitNutrientView.swift in Sources */,
 				5275DCF22977A2EC0078A614 /* OnBoardingView.swift in Sources */,
 				52158A3129AB069B00317CC0 /* FruitModel.swift in Sources */,
 				5275DCDE297790A40078A614 /* FruitAppApp.swift in Sources */,
